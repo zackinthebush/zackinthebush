@@ -44,7 +44,6 @@ class Yahia:
 - 🧠 Recent playgrounds: face detection, image processing from scratch, and classic AI search.
 - 🌱 Currently sharpening my **machine learning** and **software engineering** skills.
 - 💬 Ask me about **Python, computer vision, or web development**.
-- ⚡ Fun fact: *add something personal here.* <!-- EDIT -->
 
 ---
 
